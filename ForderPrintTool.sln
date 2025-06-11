@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForderPrintTool", "FolderPrintTool\ForderPrintTool.csproj", "{A5EA3029-1390-4DCC-AA55-5A675B54F1E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EA3029-1390-4DCC-AA55-5A675B54F1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EA3029-1390-4DCC-AA55-5A675B54F1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EA3029-1390-4DCC-AA55-5A675B54F1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EA3029-1390-4DCC-AA55-5A675B54F1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E08118-467B-40F7-ADCC-0BC4C51A754F}
+	EndGlobalSection
+EndGlobal
